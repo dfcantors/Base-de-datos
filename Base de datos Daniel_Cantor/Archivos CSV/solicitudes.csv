@@ -1,0 +1,27 @@
+id_solicitud,id_client,id_assigned_to,state,created_at
+1,1,2,Abierta,2025-01-01
+2,2,4,Cerrada,2025-01-08
+3,3,1,Abierta,2025-01-15
+4,4,5,En Proceso,2025-01-22
+5,5,7,Cerrada,2025-01-29
+6,6,3,Abierta,2025-02-05
+7,7,6,Cerrada,2025-02-12
+8,8,8,En Proceso,2025-02-19
+9,9,9,Abierta,2025-02-26
+10,10,10,Cerrada,2025-03-05
+11,11,11,Abierta,2025-03-12
+12,12,12,Cerrada,2025-03-19
+13,13,13,En Proceso,2025-03-26
+14,14,14,Abierta,2025-04-02
+15,15,15,Cerrada,2025-04-09
+16,1,2,Abierta,2025-01-01
+17,2,4,Cerrada,2025-01-08
+18,3,1,Abierta,2025-01-15
+19,4,5,En Proceso,2025-01-22
+20,5,7,Cerrada,2025-01-29
+21,6,3,Abierta,2025-02-05
+22,7,6,Cerrada,2025-02-12
+23,8,8,En Proceso,2025-02-19
+24,1,2,Abierta,2025-01-01
+25,2,4,Cerrada,2025-01-08
+26,3,1,Abierta,2025-01-15

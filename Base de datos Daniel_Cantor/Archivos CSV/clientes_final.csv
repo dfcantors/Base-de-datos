@@ -1,0 +1,102 @@
+id_cliente,name_client,age,email
+1,Elon Musk,50,Tesla@gmail.com
+2,Jeff Bezos,58,Amazon@gmail.com
+3,Bernard Arnault,73,LVMH@gmail.com
+4,Bill Gates,66,Microsoft@gmail.com
+5,Warren Buffett,91,Berkshire Hathaway@gmail.com
+6,Larry Page,49,Google@gmail.com
+7,Sergey Brin,48,Google@gmail.com
+8,Larry Ellison,77,software@gmail.com
+9,Steve Ballmer,66,Microsoft@gmail.com
+10,Mukesh Ambani,64,diversified@gmail.com
+11,Gautam Adani ,59,infrastructure@gmail.com
+12,Michael Bloomberg,80,Bloomberg LP@gmail.com
+13,Carlos Slim Helu,82,telecom@gmail.com
+14,Francoise Bettencourt Meyers,68,L'Oréal@gmail.com
+15,Mark Zuckerberg,37,Facebook@gmail.com
+16,Jim Walton,73,Walmart@gmail.com
+17,Zhong Shanshan,67,beverages@gmail.com
+18,Alice Walton,72,Walmart@gmail.com
+19,Rob Walton,77,Walmart@gmail.com
+20,Changpeng Zhao,44,cryptocurrency exchange@gmail.com
+21,Charles Koch,86,KochIndustries@gmail.com
+22,Julia Koch ,59,Koch@gmail.com
+23,Amancio Ortega,86,Zara@gmail.com
+24,Michael Dell,57,Dellcomputers@gmail.com
+25,Zhang Yiming,38,TikTok@gmail.com
+26,David Thomson ,64,media@gmail.com
+27,Phil Knight ,84,Nike@gmail.com
+28,Dieter Schwarz,82,retail@gmail.com
+29,Robin Zeng,53,batteries@gmail.com
+30,MacKenzie Scott,51,Amazon@gmail.com
+31,Rodolphe Saadé,52,shipping@gmail.com
+32,François Pinault,85,luxurygoods@gmail.com
+33,Klaus-Michael Kuehne,84,shipping@gmail.com
+34,Ma Huateng,50,internet media@gmail.com
+35,Beate Heister & Karl Albrecht Jr.,50,supermarkets@gmail.com
+36,Giovanni Ferrero,57,Nutella@gmail.com
+37,Li Ka-shing,93,diversified@gmail.com
+38,Stephen Schwarzman,75,investments@gmail.com
+39,Lee Shau Kee,94,real estate@gmail.com
+40,Len Blavatnik,64,music@gmail.com
+41,Jacqueline Mars,82,candy@gmail.com
+42,John Mars,86,petfood@gmail.com
+43,Alain Wertheimer,73,Chanel@gmail.com
+44,Gerard Wertheimer,71,Chanel@gmail.com
+45,German Larrea Mota Velasco,68,mining@gmail.com
+46,Gina Rinehart,68,mining@gmail.com
+47,Shiv Nadar,76,softwareservices@gmail.com
+48,Jim Simons,83,hedgefunds@gmail.com
+49,He Xiangjian,79,homeappliances@gmail.com
+50,Miriam Adelson,76,casinos@gmail.com
+51,Dietrich Mateschitz,77,RedBull@gmail.com
+52,Leonardo Del Vecchio,86,eyeglasses@gmail.com
+53,Ken Griffin,53,hedge funds@gmail.com
+54,Tadashi Yanai,73,fashion retail@gmail.com
+55,William Lei Ding,50,online games@gmail.com
+56,Susanne Klatten,59,BMW@gmail.com
+57,Cyrus Poonawalla,80,vaccines@gmail.com
+58,Wang Wei,51,packagedelivery@gmail.com
+59,Qin Yinglin,56,pigbreeding@gmail.com
+60,Sam Bankman-Fried,30,cryptocurrency@gmail.com
+61,Takemitsu Takizaki,76,sensors@gmail.com
+62,Li Shufu,58,automobiles@gmail.com
+63,Emmanuel Besnier,51,cheese@gmail.com
+64,R. Budi Hartono,81,tobacco@gmail.com
+65,Leonard Lauder,89,Estee Lauder@gmail.com
+66,Guillaume Pousaz,40,fintech@gmail.com
+67,Iris Fontbona,79,mining@gmail.com
+68,Jack Ma,57,ecommerce@gmail.com
+69,Michael Hartono,82,banking@gmail.com
+70,Eric Schmidt,66,Google@gmail.com
+71,Ray Dalio,72,hedge funds@gmail.com
+72,Daniel Gilbert,60,QuickenLoans@gmail.com
+73,Thomas Frist, Jr. & family,83,hospitals@gmail.com
+74,Masayoshi Son,64,internettelecom@gmail.com
+75,Abigail Johnson,60,money management@gmail.com
+76,Rupert Murdoch & family,91,newspapers@gmail.com
+77,Stefan Quandt,55,BMW@gmail.com
+78,Jensen Huang,59,semiconductors@gmail.com
+79,Huang Shilin,55,batteries@gmail.com
+80,Thomas Peterffy,77,discount@gmail.com
+81,Radhakishan Damani,67,retail, investments@gmail.com
+82,Pang Kang,66,soy@gmail.com
+83,Wang Chuanfu,56,automobiles@gmail.com
+84,Reinhold Wuerth & family,86,fasteners@gmail.com
+85,Theo Albrecht, Jr. & family,71,Aldi@gmail.com
+86,Yang Huiyan & family,40,real estate@gmail.com
+87,Vladimir Lisin,65,steeltransport@gmail.com
+88,Fan Hongwei & family,55,petrochemicals@gmail.com
+89,Lakshmi Mittal,71,steel@gmail.com
+90,Andrew Forrest,60,mining@gmail.com
+91,Jiang Rensheng,68,vaccines@gmail.com
+92,Savitri Jindal,72,steel@gmail.com
+93,Wang Wenyin,54,miningcopper@gmail.com
+94,Li Xiting,71,medicaldevices@gmail.com
+95,Stefan Persson,74,HandM@gmail.com
+96,Steve Cohen,65,hedge@gmail.com
+97,Vladimir Potanin,61,metals@gmail.com
+98,Harold Hamm,76,oilandgas@gmail.com
+99,Sun Piaoyang,63,pharmaceuticals@gmail.com
+100,Luo Liguo,66,chemicals@gmail.com
+101,Peter Woo,75,real estate@gmail.com
